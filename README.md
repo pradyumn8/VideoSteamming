@@ -35,13 +35,14 @@
 ### 📦 Installation
 
 1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/yourusername/videostreaming.git
-  ```
-### 📂 Navigate into the project directory
    ```bash
-   cd videostreaming
-    ```
+   git clone https://github.com/yourusername/videostreaming.git
+  
+
+### 📂 Navigate into the project directory
+```bash
+ cd videostreaming
+ ```
 
 ### Install dependencies
    ```bash
