@@ -35,9 +35,9 @@
 ### 📦 Installation
 
 1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/videostreaming.git
-  
+```bash
+ git clone https://github.com/yourusername/videostreaming.git
+ ```
 
 ### 📂 Navigate into the project directory
 ```bash
